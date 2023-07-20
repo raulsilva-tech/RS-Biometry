@@ -1,0 +1,107 @@
+2021-03-20 00:30:21,084 - BIOMETRY PYTHON LOG - ERROR - name 'dankfpapi' is not defined
+2021-03-20 00:30:21,087 - BIOMETRY PYTHON LOG - ERROR - Traceback (most recent call last):
+  File "C:\Users\dankia\PycharmProjects\Biometry\DKFP.py", line 67, in initialize
+    ret = FTR_initialize(fake_finger, emulate, log)
+  File "C:\Users\dankia\PycharmProjects\Biometry\Futronic.py", line 117, in FTR_initialize
+    dankfpapi.Initialize.restype = c_int
+NameError: name 'dankfpapi' is not defined
+
+2021-03-20 00:32:23,504 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:32:26,604 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:32:30,213 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:32:34,822 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:32:38,394 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:32:44,154 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:32:46,720 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:32:48,716 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:32:51,106 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:32:52,924 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:32:54,407 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:32:55,891 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:32:57,408 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:32:59,947 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:33:01,427 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:33:03,074 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:33:04,733 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:33:06,034 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:33:07,498 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:34:13,116 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:34:16,022 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:34:18,223 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:34:19,722 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:34:21,725 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:34:35,399 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:34:38,005 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:34:40,358 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:34:41,515 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:34:42,622 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:34:44,815 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:35:06,922 - BIOMETRY PYTHON LOG - ERROR - Erro 3 ao inicializar o leitor.
+2021-03-20 00:35:18,301 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:35:21,383 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:35:23,591 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:35:26,330 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:35:28,862 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:36:49,575 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:36:51,757 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:36:53,579 - BIOMETRY PYTHON LOG - ERROR - Erro c_long(0) em FTR_enroll. 
+2021-03-20 00:54:39,508 - BIOMETRY PYTHON LOG - ERROR - Erro None no FTR_start_identify_data.
+2021-03-20 00:56:10,048 - BIOMETRY PYTHON LOG - ERROR - Expecting property name enclosed in double quotes: line 1 column 3 (char 2)
+2021-03-20 01:00:33,388 - BIOMETRY PYTHON LOG - ERROR - Expecting property name enclosed in double quotes: line 1 column 3 (char 2)
+2021-03-20 01:01:47,338 - BIOMETRY PYTHON LOG - ERROR - Expecting property name enclosed in double quotes: line 1 column 3 (char 2)
+2021-03-20 01:04:56,102 - BIOMETRY PYTHON LOG - ERROR - Erro None no FTR_start_identify_data.
+2021-03-20 01:06:34,137 - BIOMETRY PYTHON LOG - ERROR - Erro None no FTR_start_identify_data.
+2021-03-20 01:07:02,243 - BIOMETRY PYTHON LOG - ERROR - Erro None no FTR_start_identify_data.
+2021-03-20 01:08:57,525 - BIOMETRY PYTHON LOG - ERROR - Erro None no FTR_start_identify_data.
+2021-03-20 01:20:09,817 - BIOMETRY PYTHON LOG - ERROR - can only concatenate str (not "int") to str
+2021-03-20 01:20:10,242 - BIOMETRY PYTHON LOG - ERROR - can only concatenate str (not "int") to str
+2021-03-20 01:22:29,280 - BIOMETRY PYTHON LOG - ERROR - Erro 3 ao inicializar o leitor.
+2021-03-20 17:43:17,436 - BIOMETRY PYTHON LOG - ERROR - Erro 3 ao inicializar o leitor.
+2021-03-21 21:37:24,281 - BIOMETRY PYTHON LOG - ERROR - the JSON object must be str, bytes or bytearray, not list
+2021-03-21 21:37:24,291 - BIOMETRY PYTHON LOG - ERROR - the JSON object must be str, bytes or bytearray, not list
+2021-03-21 21:45:28,535 - BIOMETRY PYTHON LOG - ERROR - the JSON object must be str, bytes or bytearray, not list
+2021-03-21 21:45:28,555 - BIOMETRY PYTHON LOG - ERROR - the JSON object must be str, bytes or bytearray, not list
+2021-03-21 21:47:32,117 - BIOMETRY PYTHON LOG - ERROR - Expecting property name enclosed in double quotes: line 1 column 3 (char 2)
+2021-03-21 21:47:32,127 - BIOMETRY PYTHON LOG - ERROR - Expecting property name enclosed in double quotes: line 1 column 3 (char 2)
+2021-03-22 15:36:53,919 - BIOMETRY PYTHON LOG - ERROR - Erro 3 ao inicializar o leitor.
+2021-03-22 16:04:11,380 - BIOMETRY PYTHON LOG - ERROR - Erro 3 ao inicializar o leitor.
+2021-03-22 16:26:08,637 - BIOMETRY PYTHON LOG - ERROR - Erro 6 em FRT_set_max_fingers.
+2021-03-22 16:27:20,128 - BIOMETRY PYTHON LOG - ERROR - Erro 6 em FRT_set_max_fingers.
+2021-03-22 16:28:25,639 - BIOMETRY PYTHON LOG - ERROR - string indices must be integers
+2021-03-22 16:29:53,628 - BIOMETRY PYTHON LOG - ERROR - Erro 6 em FRT_set_max_fingers.
+2021-03-22 16:30:41,358 - BIOMETRY PYTHON LOG - ERROR - Erro 6 em FRT_set_max_fingers.
+2021-03-22 16:32:15,757 - BIOMETRY PYTHON LOG - ERROR - Erro 6 em FRT_set_max_fingers.
+2021-03-22 16:33:14,105 - BIOMETRY PYTHON LOG - ERROR - Erro 6 em FRT_set_max_fingers.
+2021-03-22 16:34:08,251 - BIOMETRY PYTHON LOG - ERROR - Erro 6 em FRT_set_max_fingers.
+2021-03-22 16:36:27,888 - BIOMETRY PYTHON LOG - ERROR - Erro 6 em FRT_set_max_fingers.
+2021-03-22 16:36:54,338 - BIOMETRY PYTHON LOG - ERROR - Erro 6 em FRT_set_max_fingers.
+2021-03-22 16:39:24,583 - BIOMETRY PYTHON LOG - ERROR - Erro 6 em FRT_set_max_fingers.
+2021-03-22 17:03:04,559 - BIOMETRY PYTHON LOG - ERROR - Erro 6 em FRT_set_max_fingers.
+2022-09-14 21:23:17,394 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 15:42:12,295 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 15:44:28,174 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 15:45:13,311 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 15:45:46,156 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 15:46:28,320 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 15:51:03,400 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 15:53:04,549 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 15:53:14,199 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 15:54:10,936 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 15:56:03,095 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 15:56:16,719 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 16:03:57,307 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 16:04:40,711 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 16:05:05,599 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 16:07:08,476 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 16:07:27,104 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 16:16:33,755 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 16:18:05,697 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 19:20:42,780 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 19:21:58,377 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 19:22:56,417 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 19:23:11,102 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 19:43:27,677 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 19:48:38,971 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 19:57:29,620 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 19:59:57,299 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
+2022-09-15 20:06:00,747 - BIOMETRY PYTHON LOG - ERROR - Erro 1 ao inicializar o leitor.
